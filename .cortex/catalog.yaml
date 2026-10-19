@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "user-behavior-tracker"
+  x-cortex-tag: "user-behavior-tracker"
+  x-cortex-description: "Clickstream and behavioral event collection"
+  x-cortex-owners:
+    - type: group
+      name: "Loyalty & Personalization Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001206"
+    apm_name: "Personalization & Recommendation Engine"
+    cost_center: "CC-4220"
